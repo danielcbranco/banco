@@ -32,5 +32,4 @@ export function Summary() {
       </div>
     </Container>
   )
-  // adfnasodfksadnfoasdfasdasdf nasjkdfnjasndfjkasndf jknasjkdfn sjkadnf ksjandfk jsnadkfjn sakdjfn skajdnf kasjdnf kasjndf jkasnjkn
 }
